@@ -37,9 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Divyansha23&show_icons=true&theme=tokyonight" alt="Divyansha's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansha23&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
