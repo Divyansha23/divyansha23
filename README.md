@@ -52,4 +52,4 @@
 
 ---
 
-Thanks for stopping by! ⭐️ Don't forget to check out some of my pinned repositories below ⬇️  
+Thanks for stopping by! ⭐️
