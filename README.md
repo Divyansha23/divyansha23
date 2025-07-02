@@ -14,7 +14,7 @@
 - 💬 **Ask Me About:** APIs, troubleshooting, open-source contribution, developer support
 - 📫 **Reach Me At:**  
   [![LinkedIn](https://img.shields.io/badge/-Divyansha%20Dubey-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyansha23)  
-  ✉️ divyanshawork@gmail.com *(replace with your email)*
+  ✉️ divyanshawork@gmail.com
 
 ---
 
